@@ -1,11 +1,10 @@
 import React from 'react'
-import pedido from './components/Pedido'
+import Pedido from './components/Pedido'
  
 const App = () => {
   return (
-    <>
-      <Pedido/>
-    </>
+
+    <Pedido/>
   )
 }
 
